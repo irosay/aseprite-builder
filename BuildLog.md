@@ -1,2 +1,2 @@
 - build `v1.3.9`
-- build `v1.3.11-beta2` 
+- build `v1.3.12` 
